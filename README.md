@@ -93,8 +93,10 @@ risk of interfering with the robot.
 5. Now the robot retracts normal to the welding path and then straight up
 6. ![image](https://user-images.githubusercontent.com/36288975/173730741-29331e12-e805-44da-bc71-798894720348.png)
 PROGRAM:
+```
 DEVELOPED BY :Naveenaa.V.R
 REGISTER NO : 212221220035
+```
 import os
 sys.path.append(os.path.abspath(r"""E:/RoboDK/Posts/""")) # temporarily add path to POSTS folder
 
@@ -125,6 +127,7 @@ SIMULATION :
 ![image](https://github.com/Naveenaa28/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/assets/131433133/4f4eb7a7-dfaa-4632-9865-7c4f94fa6a7c)
 ![image](https://github.com/Naveenaa28/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/assets/131433133/4634baa7-ff9a-44aa-a4b2-f20271269e7d)
 ![image](https://github.com/Naveenaa28/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/assets/131433133/debbd94b-a759-45ac-abaf-00cc36dd5e03)
+```
 
 ### Results of simulation:
 An environment for welding operation using robodk is Designed & simulated.
