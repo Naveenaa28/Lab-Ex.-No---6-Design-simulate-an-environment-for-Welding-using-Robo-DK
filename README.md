@@ -92,9 +92,10 @@ risk of interfering with the robot.
 4. Press Update and Simulate once you are finished.
 5. Now the robot retracts normal to the welding path and then straight up
 6. ![image](https://user-images.githubusercontent.com/36288975/173730741-29331e12-e805-44da-bc71-798894720348.png)
-PROGRAM:
+
+##PROGRAM:
 ```
-DEVELOPED BY :Naveenaa.V.R
+DEVELOPED BY : Naveenaa.V.R
 REGISTER NO : 212221220035
 ```
 import os
@@ -122,12 +123,8 @@ r.MoveL(p(1909.38,82.1936,244.394,173.458,-48.1296,-166.856),[-5.09436,-53.5834,
 r.MoveL(p(913.203,11.8774,163.193,173.458,-48.1296,-166.856),[-6.20609,-86.1947,148.418,15.6926,33.1308,-16.7445],[0,0,0])
 r.MoveL(p(1685.13,32.5589,6.33493,173.458,-48.1296,-166.856),[-4.1108,-52.2296,106.602,13.4094,40.4581,-11.6734],[0,0,0])
 r.ProgFinish(r"""Prog1""")
-r.ProgSave(r"""C:/Users/Naveenaa/Documents/RoboDK""",r"""Prog1""",True,r"""E:/RoboDK/Other/VSCodium/VSCodium.exe""")
-SIMULATION :
-![image](https://github.com/Naveenaa28/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/assets/131433133/4f4eb7a7-dfaa-4632-9865-7c4f94fa6a7c)
-![image](https://github.com/Naveenaa28/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/assets/131433133/4634baa7-ff9a-44aa-a4b2-f20271269e7d)
-![image](https://github.com/Naveenaa28/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/assets/131433133/debbd94b-a759-45ac-abaf-00cc36dd5e03)
-```
+r.ProgSave(r"""C:/Users/Sudharshna/Documents/RoboDK""",r"""Prog1""",True,r"""E:/RoboDK/Other/VSCodium/VSCodium.exe""")
+
 
 ### Results of simulation:
 An environment for welding operation using robodk is Designed & simulated.
